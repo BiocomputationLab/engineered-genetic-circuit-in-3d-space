@@ -1,0 +1,20 @@
+Name,qaccver,saccver,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore,sstrand,Locus Tag,Feature Type,Start,End,Strand,Gene Name,Product Name,Subcellular Localization [Confidence Class],Multiple Allignments,Rest of Locus Tag Associated
+amF7,2191CAA001-13_premix,refseq|NC_002947.4|chromosome,90076,262,21,5,92,351,142500,142758,2.26E-92,335,plus,PP_0134,CDS,142057,142878,+,-,hypothetical protein,-,False,-
+amD10,2191CAA001-23_premix,refseq|NC_002947.4|chromosome,97041,338,8,2,84,420,300138,300474,2.47E-162,568,plus,PP_0245,CDS,298540,301125,-,yhgF,transcriptional accessory protein,Cytoplasmic [Class 3],False,-
+amH7,2191CAA001-14_premix,refseq|NC_002947.4|chromosome,98973,487,5,0,99,585,581421,581907,0,872,plus,PP_0493,CDS,580711,582138,+,selA,selenocysteine synthase,-,False,-
+amC10,2191CAA001-22_premix,refseq|NC_002947.4|chromosome,97794,136,2,1,93,227,612073,611938,5.31E-62,233,minus,-,-,-,-,-,-,-,-,True,"['-', '-', '-', '-', '-', '-']"
+amD7,2191CAA001-11_premix,refseq|NC_002947.4|chromosome,99726,365,0,1,62,426,661488,661125,0,667,minus,PP_0568,CDS,661035,661490,+,-,hypothetical protein,-,False,-
+amG8,2191CAA001-17_premix,refseq|NC_002947.4|chromosome,99681,313,0,1,63,374,728865,728553,1.69E-147,571,minus,PP_0623,CDS,728512,729474,+,rluD,23S rRNA pseudouridine(1911/1915/1917) synthase,Cytoplasmic [Class 3],False,-
+amB6,2191CAA001-7_premix,refseq|NC_002947.4|chromosome,98851,609,6,1,59,667,774693,774086,0,1085,minus,PP_0665,CDS,773394,774812,+,-,glyceraldehyde-3-phosphate dehydrogenase,-,False,-
+amH5,2191CAA001-5_premix,refseq|NC_002947.4|chromosome,97518,282,7,0,105,386,886777,887058,8.43E-137,483,plus,PP_0767,CDS,884090,886807,+,-,LuxR family transcriptional regulator,-,False,-
+amA6,2191CAA001-6_premix,refseq|NC_002947.4|chromosome,93396,106,3,3,88,191,943327,943224,3.51E-38,154,minus,PP_0806,CDS,926689,945621,-,-,surface adhesion protein,-,False,-
+amF12,2191CAA001-26_premix,refseq|NC_002947.4|chromosome,99393,659,4,0,91,749,2091447,2092105,0,1195,plus,PP_1868,CDS,2090675,2092354,+,deaD,ATP-dependent DEAD-box RNA helicase DeaD,-,False,-
+amB8,2191CAA001-15_premix,refseq|NC_002947.4|chromosome,97964,393,8,0,74,466,4660020,4659628,0,682,minus,PP_4123,CDS,4659643,4661004,+,nuoF,NADH-quinone oxidoreductase subunit F,-,False,-
+amC1,2191CAA001-1_premix,refseq|NC_002947.4|chromosome,100,134,0,0,83,216,4662024,4662157,1.87E-66,248,plus,PP_4124,CDS,4661137,4663851,+,nuoG,NADH-quinone oxidoreductase subunit G,-,False,-
+amB9,2191CAA001-20_premix,refseq|NC_002947.4|chromosome,97222,396,11,0,83,478,4663584,4663189,0,671,minus,PP_4124,CDS,4661137,4663851,+,nuoG,NADH-quinone oxidoreductase subunit G,-,False,-
+amE6,2191CAA001-9_premix,refseq|NC_002947.4|chromosome,96223,556,14,7,59,614,5198536,5199084,0,904,plus,PP_4578,CDS,5197297,5198583,-,-,MFS transporter,-,False,-
+amE5,2191CAA001-4_premix,refseq|NC_002947.4|chromosome,99438,178,1,0,80,257,5498272,5498449,3.51E-89,324,plus,PP_4831,CDS,5498132,5499226,+,cbiD,cobalt-precorrin-6A synthase,-,False,-
+amD5,2191CAA001-3_premix,refseq|NC_002947.4|chromosome,99167,120,0,1,76,195,5759330,5759212,1.62E-56,215,minus,PP_5052,CDS,5758918,5759391,+,trmL,tRNA (cytosine(34)-2'-O)-methyltransferase TrmL,Unknown [Class 3],False,-
+amC7,2191CAA001-10_premix,refseq|NC_002947.4|chromosome,98.87,354,3,1,61,413,5868605,5868252,0,630,minus,PP_5143,CDS,5868580,5869362,-,-,membrane protein,-,False,-
+amE10,2191CAA001-24_premix,refseq|NC_002947.4|chromosome,97931,725,13,2,75,799,5983069,5983791,0,1254,plus,PP_5242,CDS,5979356,5984404,+,-,GAF domain-containing sensor histidine kinase,-,False,-
+amA9,2191CAA001-19_premix,refseq|NC_002947.4|chromosome,98558,416,6,0,93,508,6113713,6113298,0,736,minus,PP_5364,CDS,6112871,6114316,+,clsA,cardiolipin synthase,Cytoplasmic Membrane [Class 3],False,-

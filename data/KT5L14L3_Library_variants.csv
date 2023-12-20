@@ -1,0 +1,22 @@
+Name,qaccver,saccver,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore,sstrand,Locus Tag,Feature Type,Start,End,Strand,Gene Name,Product Name,Subcellular Localization [Confidence Class],Multiple Allignments,Rest of Locus Tag Associated,
+lm33a,2103ZAB027_premix,refseq|NC_002947.4|chromosome,97497,759,12,7,82,839,13086,12334,0,1290,minus,PP_0012,CDS,12222,13325,+,recF,DNA replication/repair protein,-,False,-,
+lmB7a,2191CAA000-35_premix,refseq|NC_002947.4|chromosome,99714,350,1,0,82,431,182234,181885,0,641,minus,PP_0160,CDS,182076,184562,-,-,ferrioxamine receptor,Outer Membrane [Class 3],False,-,
+lmG8a,2191CAA000-39_premix,refseq|NC_002947.4|chromosome,98467,261,4,0,81,341,265583,265323,3.46E-114,460,minus,PP_0214,CDS,264875,266152,+,gabT,5-aminovalerate aminotransferase DavT,-,False,-,
+lmC6a,2191CAA000-47_premix,refseq|NC_002947.4|chromosome,97701,348,8,0,79,426,265583,265236,8.91E-157,599,minus,PP_0214,CDS,264875,266152,+,gabT,5-aminovalerate aminotransferase DavT,-,False,-,
+lm4a,2191CAA000-23_premix,refseq|NC_002947.4|chromosome,100,476,0,0,62,537,309393,308918,0,880,minus,PP_0255,CDS,309351,309833,-,-,hypothetical protein,-,False,-,-
+lmA6c ,22CCRAA000_F11_premix,refseq|NC_002947.4|chromosome,97764,492,10,1,92,582,309584,310075,0,846,plus,PP_0255,CDS,309351,309833,-,-,hypothetical protein,-,False,-,
+lmF5c ,22CCRAA000_H11_premix,refseq|NC_002947.4|chromosome,96.9,613,10,7,94,704,520408,521013,0,1018,plus,PP_0434,CDS,520204,521295,-,anmK,anhydro-N-acetylmuramic acid kinase,-,False,-,
+lmA11a,2191CAA000-29_premix,refseq|NC_002947.4|chromosome,100,214,0,0,90,303,565419,565206,8.72E-111,396,minus,PP_0481,CDS,564521,565960,+,katA,catalase,-,False,-,
+lmG5a,2191CAA000-46_premix,refseq|NC_002947.4|chromosome,98171,328,5,1,74,401,661488,661162,1.82E-163,571,minus,PP_0568,CDS,661035,661490,+,-,hypothetical protein,-,False,-,-
+lmB7c ,22CCRAA000_B11_premix,refseq|NC_002947.4|chromosome,98419,506,6,2,90,594,706889,706385,0,889,minus,-,-,-,-,-,-,-,-,False,-,
+lmB8a,2191CAA000-37_premix,refseq|NC_002947.4|chromosome,99554,224,0,1,90,312,954063,954286,5.21E-114,407,plus,PP_0815,CDS,953815,954147,+,cyoD,cytochrome bo terminal oxidase subunit IV,-,False,-,-
+lmA10a,2191CAA000-26_premix,refseq|NC_002947.4|chromosome,97356,416,10,1,79,493,974650,974235,0,706,minus,PP_0837,CDS,974609,975151,+,ycfJ,flagella biosyntheis regulator,-,False,-,
+lm35a,2103ZAB026_premix,refseq|NC_002947.4|chromosome,90678,472,32,12,6,475,4662106,4661645,2.76E-161,617,minus,PP_4124,CDS,4661137,4663851,+,nuoG,NADH-quinone oxidoreductase subunit G,-,False,-,
+lm24a,2103ZAB029_premix,refseq|NC_002947.4|chromosome,93623,737,34,12,91,823,4667217,4666490,0,1088,minus,PP_4129,CDS,4666235,4668088,+,nuoL,NADH-quinone oxidoreductase subunit L,-,False,-,
+lmF6a,2191CAA000-33_premix,refseq|NC_002947.4|chromosome,97321,336,8,1,81,415,4670571,4670236,6.79E-148,569,minus,PP_4131,CDS,4669669,4671138,+,nuoN,NADH-quinone oxidoreductase subunit N,-,False,-,
+lm12a,2103ZAB034_premix,refseq|NC_002947.4|chromosome,95695,906,25,12,88,991,5339725,5338832,0,1445,minus,PP_4697,CDS,5338773,5340155,+,pcnB,poly(A) polymerase,-,False,-,
+lm15a,2103ZAB033_premix,refseq|NC_002947.4|chromosome,94779,249,13,0,118,366,5633905,5633657,1.79E-108,388,minus,PP_4947,CDS,5630471,5634424,+,putA,proline dehydrogenase/1-pyrroline-5-carboxylate dehydrogenase,-,False,-,
+lmA7c ,22CCRAA000_C11_premix,refseq|NC_002947.4|chromosome,95833,360,9,5,84,440,5797224,5797580,4.32E-149,577,plus,PP_5076,CDS,5793454,5797899,-,gltB,L-glutamate synthase subunit alpha,-,False,-,
+lmH12a,2191CAA000-24_premix,refseq|NC_002947.4|chromosome,96.93,456,14,0,60,515,5871179,5871634,0,765,plus,PP_5145,CDS,5870373,5872652,-,ptsP,phosphoenolpyruvate-dependent regulator,-,False,-,-
+lmE5a,2191CAA000-45_premix,refseq|NC_002947.4|chromosome,100,240,0,0,90,329,6112278,6112039,3.36E-109,444,minus,PP_5363,CDS,6112217,6112744,-,-,hypothetical protein,-,False,-,
+lmB5a,Low sequence quality no alignment,,,,,,,,,,,,,,,,,,,,,,,

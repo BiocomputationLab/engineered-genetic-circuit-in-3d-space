@@ -1,0 +1,30 @@
+Name,qaccver,saccver,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore,sstrand,Locus Tag,Feature Type,Start,End,Strand,Gene Name,Product Name,Subcellular Localization [Confidence Class],Multiple Allignments,Rest of Locus Tag Associated
+ts20D5,2220RAA000_C05_premix,refseq|NC_002947.4|chromosome,98817,338,4,0,100,437,20744,21081,7.07E-158,603,plus,PP_0016,CDS,20198,22114,+,-,hypothetical protein,-,False,-
+ts20F3,2220RAA000_F03_premix,refseq|NC_002947.4|chromosome,99628,537,2,0,103,639,28889,29425,0,981,plus,PP_0024,CDS,27850,29547,-,-,membrane-associated metal-dependent hydrolase,-,False,-
+ts20E3,2220RAA000_E03_premix,refseq|NC_002947.4|chromosome,99526,211,1,0,102,312,134668,134878,1.95E-107,385,plus,PP_0129,CDS,134105,136042,+,-,GGDEF domain-containing protein,-,False,-
+ts20G6,2220RAA000_F06_premix,refseq|NC_002947.4|chromosome,100,140,0,0,103,242,185462,185601,9.39E-55,259,plus,PP_0161,CDS,184656,185612,-,-,putative transmembrane sensor,Unknown (This protein may have multiple localization sites) [Class 3],False,-
+ts20C6,2220RAA000_B06_premix,refseq|NC_002947.4|chromosome,100,164,0,0,102,265,312961,313124,4.72E-83,303,plus,PP_0257,CDS,312381,313211,-,fdhD,protein sulfur transferase,-,False,-
+ts20H4,2220RAA000_H04_premix,refseq|NC_002947.4|chromosome,99223,386,2,1,97,482,455868,455484,0,695,minus,PP_0375,CDS,454816,456654,-,-,prolyl oligopeptidase family protein,-,False,-
+ts20H5,2220RAA000_G05_premix,refseq|NC_002947.4|chromosome,96525,259,5,4,103,359,485061,484805,1.33E-119,425,minus,-,-,-,-,-,-,-,-,False,-
+ts20A6,2220RAA000_H05_premix,refseq|NC_002947.4|chromosome,94207,328,17,2,100,426,565607,565933,9.29E-142,499,plus,PP_0481,CDS,564521,565960,+,katA,catalase,-,False,-
+ts20B7,2220RAA000_A07_premix,refseq|NC_002947.4|chromosome,92697,178,9,4,69,244,571584,571759,4.41E-53,254,plus,-,-,-,-,-,-,-,-,False,-
+ts20D4,2220RAA000_D04_premix,refseq|NC_002947.4|chromosome,100,238,0,0,105,342,703407,703170,4.52E-124,440,minus,PP_0598,CDS,703262,703921,+,-,paraquat-inducible protein A,Cytoplasmic Membrane [Class 3],False,-
+ts20C7,2220RAA000_B07_premix,refseq|NC_002947.4|chromosome,100,54,0,0,103,156,756796,756849,5.26E-22,100,plus,PP_0646,CDS,755405,756805,+,tke6,Tke6,-,False,-
+ts20F5,2220RAA000_E05_premix,refseq|NC_002947.4|chromosome,99534,429,2,0,97,525,1249629,1249201,0,782,minus,PP_1090,CDS,1249104,1249727,+,bvgA,virulence factors transcription regulator BvgA,-,False,-
+ts20G5,2220RAA000_F05_premix,refseq|NC_002947.4|chromosome,96711,152,5,0,102,253,1287390,1287239,4.59E-68,254,minus,PP_1125,CDS,1286618,1288762,+,-,putative Helicase,-,False,-
+ts20G1,2220RAA000_G01_premix,refseq|NC_002947.4|chromosome,97.11,346,7,3,115,459,1295608,1295265,3.49E-150,580,minus,PP_1132,CDS,1295054,1296247,-,nhaA-I,Na(+)/H(+) antiporter NhaA,Cytoplasmic Membrane [Class 3],False,-
+ts20E1,2220RAA000_E01_premix,refseq|NC_002947.4|chromosome,100,536,0,0,103,638,1401762,1401227,0,990,minus,PP_1226,CDS,1401671,1402345,+,queC,pre-queuosine 0 synthase,-,False,-
+ts20D7,2220RAA000_C07_premix,refseq|NC_002947.4|chromosome,100,239,0,0,103,341,1493136,1492898,1.25E-124,442,minus,PP_1306,CDS,1492594,1494870,-,-,Pyocin S-type killer domain-containing protein,Extracellular [Class 3],False,-
+ts20E2,2220RAA000_E02_premix,refseq|NC_002947.4|chromosome,97661,171,4,0,103,273,4137842,4138012,2.94E-80,294,plus,PP_3641,CDS,4136782,4138185,-,-,cytosine/purine/uracil/thiamine/allantoin permease family protein,-,False,-
+ts20F6,2220RAA000_E06_premix,refseq|NC_002947.4|chromosome,100,242,0,0,101,342,4600389,4600630,2.71E-110,448,plus,PP_4072,CDS,4599805,4601271,-,tssA2,TssA2,Cytoplasmic [Class 2],False,-
+ts20D1,2220RAA000_D01_premix,refseq|NC_002947.4|chromosome,99495,792,3,1,96,887,4662833,4663623,0,1439,plus,PP_4124,CDS,4661137,4663851,+,nuoG,NADH-quinone oxidoreductase subunit G,-,False,-
+ts20H2,2220RAA000_H02_premix,refseq|NC_002947.4|chromosome,96893,354,11,0,111,464,4888153,4887800,4.53E-154,593,minus,PP_4297,CDS,4886942,4888717,+,gcl,glyoxylate carboligase,-,False,-
+ts20E6,2220RAA000_D06_premix,refseq|NC_002947.4|chromosome,100,259,0,0,102,360,5411477,5411219,1.01E-119,479,minus,PP_4754,CDS,5410999,5411646,+,-,TetR family transcriptional regulator,-,False,-
+ts20F4,2220RAA000_F04_premix,refseq|NC_002947.4|chromosome,100,164,0,0,101,264,5540786,5540949,4.7E-67,303,plus,PP_4872,CDS,5538631,5540985,-,-,hypothetical protein,Cytoplasmic [Class 3],False,-
+ts20H1,2220RAA000_H01_premix,refseq|NC_002947.4|chromosome,100,284,0,0,102,385,5726855,5727138,1.38E-149,525,plus,PP_5025,CDS,5724392,5726965,-,opgH,glucans biosynthesis glucosyltransferase H,-,False,-
+ts20H6,2220RAA000_G06_premix,refseq|NC_002947.4|chromosome,98795,83,1,0,113,195,5773060,5773142,1.67E-36,148,plus,-,-,-,-,-,-,-,-,False,-
+ts20B1,2220RAA000_B01_premix,refseq|NC_002947.4|chromosome,99788,471,1,0,104,574,5872531,5873001,0,865,plus,PP_5145,CDS,5870373,5872652,-,ptsP,phosphoenolpyruvate-dependent regulator,-,False,-
+ts20E4,2220RAA000_E04_premix,refseq|NC_002947.4|chromosome,98993,298,3,0,103,400,5926942,5927239,2.38E-152,534,plus,PP_5195,CDS,5926272,5927894,-,-,iron ABC transporter permease,-,False,-
+ts20E5,2220RAA000_D05_premix,refseq|NC_002947.4|chromosome,100,157,0,0,100,256,5984165,5984009,4.14E-79,291,minus,PP_5242,CDS,5979356,5984404,+,-,GAF domain-containing sensor histidine kinase,-,False,-
+ts20F1,2220RAA000_F01_premix,refseq|NC_002947.4|chromosome,98299,294,5,0,101,394,6092027,6091734,8.5E-132,516,minus,PP_5343,CDS,6091576,6092205,+,-,putative Transcriptional regulator,-,False,-
+ts20B3,2220RAA000_B03_premix,refseq|NC_002947.4|chromosome,100,232,0,0,103,334,6170409,6170178,9.55E-121,429,minus,-,-,-,-,-,-,-,-,False,-

@@ -1,0 +1,30 @@
+Name,qaccver,saccver,pident,length,mismatch,gapopen,qstart,qend,sstart,send,evalue,bitscore,sstrand,Locus Tag,Feature Type,Start,End,Strand,Gene Name,Product Name,Subcellular Localization [Confidence Class],Multiple Allignments,Rest of Locus Tag Associated
+TS2mD1,23CACAA000-4_premix,refseq|NC_002947.4|chromosome,98.43,446,7,0,103,548,111809,111364,0,785,minus,PP_0105,CDS,111580,112146,+,-,cytochrome c oxidase assembly protein,-,False,-
+TS2mA1,23CACAA000-1_premix,refseq|NC_002947.4|chromosome,93168,322,20,2,73,393,195771,195451,1.89E-133,472,minus,PP_0168,CDS,194495,220543,+,-,putative surface adhesion protein,Extracellular [Class 3],False,-
+TS2mC1,23CACAA000-3_premix,refseq|NC_002947.4|chromosome,99513,616,2,1,78,692,252385,251770,0,1120,minus,PP_5433,CDS,252133,252771,+,-,hypothetical protein,Unknown [Class 3],False,-
+TS2mB1,23CACAA000-2_premix,refseq|NC_002947.4|chromosome,99244,397,2,1,53,449,346357,345962,0,715,minus,PP_0287,CDS,345599,347845,-,-,hypothetical protein,-,False,-
+TS2mF5,23CACAA000-38_premix,refseq|NC_002947.4|chromosome,98404,376,5,1,100,475,432348,431974,0,660,minus,-,-,-,-,-,-,-,-,False,-
+TS2mA5,23CACAA000-33_premix,refseq|NC_002947.4|chromosome,100,502,0,0,105,606,456241,456742,0,928,plus,PP_0375,CDS,454816,456654,-,-,prolyl oligopeptidase family protein,-,False,-
+TS2mH4,23CACAA000-32_premix,refseq|NC_002947.4|chromosome,92574,202,15,0,85,286,585696,585495,3.99E-79,291,minus,PP_0496,CDS,585328,586770,-,-,sodium/alanine symporter,-,False,-
+TS2mF4,23CACAA000-30_premix,refseq|NC_002947.4|chromosome,99796,491,0,1,103,593,792634,792145,0,900,minus,PP_0678,CDS,791195,793048,-,-,hypothetical protein,Outer Membrane [Class 3],False,-
+TS2mF6,23CACAA000-46_premix,refseq|NC_002947.4|chromosome,99786,467,1,0,94,560,794384,794850,0,857,plus,PP_0680,CDS,793859,796297,+,-,ATP-dependent protease-like protein,-,False,-
+TS2mC2,23CACAA000-11_premix,refseq|NC_002947.4|chromosome,96018,452,12,6,58,507,932207,931760,0,730,minus,PP_0806,CDS,926689,945621,-,-,surface adhesion protein,-,False,-
+TS2mE1,23CACAA000-5_premix,refseq|NC_002947.4|chromosome,96414,251,9,0,164,414,941162,941412,3.36E-116,414,plus,PP_0806,CDS,926689,945621,-,-,surface adhesion protein,-,False,-
+TS2mE5,23CACAA000-37_premix,refseq|NC_002947.4|chromosome,99683,315,1,0,72,386,1157817,1158131,3.76E-149,577,plus,-,-,-,-,-,-,-,-,False,-
+TS2mA4,23CACAA000-25_premix,refseq|NC_002947.4|chromosome,100,551,0,0,93,643,1274348,1274898,0,1018,plus,-,-,-,-,-,-,-,-,False,-
+TS2mH5,23CACAA000-40_premix,refseq|NC_002947.4|chromosome,97191,356,6,4,66,419,1388584,1388231,8.75E-172,599,minus,-,-,-,-,-,-,-,-,False,-
+TS2mA3,23CACAA000-17_premix,refseq|NC_002947.4|chromosome,98498,466,6,1,91,556,1495548,1495084,0,821,minus,-,-,-,-,-,-,-,-,False,-
+TS2mG6,23CACAA000-47_premix,refseq|NC_002947.4|chromosome,99557,451,2,0,88,538,1596718,1597168,0,822,plus,PP_1401,CDS,1595676,1597010,-,dctD-III,C4-dicarboxylate transport transcriptional regulator,-,False,-
+TS2mD2,23CACAA000-12_premix,refseq|NC_002947.4|chromosome,95652,437,19,0,96,532,4719508,4719944,0,702,plus,PP_4176,CDS,4718787,4719794,-,-,5-oxo-L-prolinase,-,False,-
+TS2mB5,23CACAA000-34_premix,refseq|NC_002947.4|chromosome,99306,576,4,0,102,677,5102220,5102795,0,1042,plus,PP_4490,CDS,5101884,5102672,+,phhA,phenylalanine-4-hydroxylase,-,False,-
+TS2mD4,23CACAA000-28_premix,refseq|NC_002947.4|chromosome,98556,554,8,0,89,642,5155057,5154504,0,979,minus,PP_4538,CDS,5154468,5155067,-,azoR2,FMN-dependent NADH-azoreductase,-,False,-
+TS2mA2,23CACAA000-9_premix,refseq|NC_002947.4|chromosome,99775,444,1,0,106,549,5162025,5162468,0,815,plus,PP_4544,CDS,5161233,5162477,+,-,hypothetical protein,-,False,-
+TS2mB6,23CACAA000-42_premix,refseq|NC_002947.4|chromosome,99.77,435,1,0,102,536,5285636,5286070,0,798,plus,-,-,-,-,-,-,-,-,False,-
+TS2mG4,23CACAA000-31_premix,refseq|NC_002947.4|chromosome,100,359,0,0,93,451,5551858,5552216,0,664,plus,PP_4882,CDS,5550772,5552337,+,-,iron ABC transporter permease,-,False,-
+TS2mB2,23CACAA000-10_premix,refseq|NC_002947.4|chromosome,94099,644,29,8,92,733,5635105,5635741,0,970,plus,PP_5718,CDS,5634807,5635490,-,-,membrane protein,Cytoplasmic Membrane [Class 3],False,-
+TS2mH2,23CACAA000-16_premix,refseq|NC_002947.4|chromosome,98966,580,5,1,57,635,5701754,5702333,0,1037,plus,PP_5004,CDS,5701265,5702116,+,phaB,poly(3-hydroxyalkanoate) depolymerase,-,False,-
+TS2mE4,23CACAA000-29_premix,refseq|NC_002947.4|chromosome,98.78,410,5,0,74,483,5883214,5883623,0,730,plus,-,-,-,-,-,-,-,-,False,-
+TS2mC6,23CACAA000-43_premix,refseq|NC_002947.4|chromosome,100,159,0,0,72,230,5899105,5898947,2.43E-64,294,minus,PP_5173,CDS,5897834,5900887,-,-,RND family transporter,-,False,-
+TS2mF2,23CACAA000-14_premix,refseq|NC_002947.4|chromosome,98228,395,5,2,70,463,5901132,5901525,0,689,plus,PP_5174,CDS,5900884,5901951,-,-,RND family transporter membrane fusion protein,-,False,-
+TS2mE6,23CACAA000-45_premix,refseq|NC_002947.4|chromosome,100,279,0,0,91,369,5991951,5992229,7.92E-147,516,plus,-,-,-,-,-,-,-,-,False,-
+TS2mG5,23CACAA000-39_premix,refseq|NC_002947.4|chromosome,95192,104,3,2,188,291,6046466,6046365,9.53E-41,163,minus,PP_5299,CDS,6046115,6047497,-,puuA-II,glutamate-putrescine ligase,-,False,-
