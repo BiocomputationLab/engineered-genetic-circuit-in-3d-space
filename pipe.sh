@@ -1,16 +1,5 @@
 #!/bin/bash
 
-# hp9QEOt8wQfb8NjFEMxS8yyA7Cc=
-
-#SBATCH --job-name=HICKTWT
-#SBATCH --output=./%x.out
-#SBATCH --nodes=1
-#SBATCH --cpus-per-task=96
-#SBATCH --partition=fast
-#SBATCH --time=01:00:00
-#SBATCH --mail-type=ALL
-#SBATCH --mail-user=lewis.grozinger@upm.es
-
 REFGENOME=pputida.fa
 READS=($1 $2)
 ENZYME="Sau3AI MluCI"
@@ -74,8 +63,6 @@ function find_compartments {
 }
 
 # BEGIN
-
-# ml load Singularity
 
 gem_indexing; 
 
