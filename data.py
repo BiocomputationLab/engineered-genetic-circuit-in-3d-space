@@ -40,10 +40,11 @@ def contact_matrix(sample):
     with open(f"{path.parent}/data/contact_{sample}.abc", "r") as f:
         for row in csv.reader(f, delimiter="\t"):
             rows += [[int(row[0]), int(row[1]), float(row[3])]]
-    nbins = max(row[0] for row in rows)
+    nbins = max(row[0] for row in rows) + 1
     matrix = numpy.zeros((nbins, nbins))
     for i, j, v in rows:
-        matrix[i - 1, j - 1] = v
+        matrix[i, j] = v
+        matrix[j, i] = v
     return matrix
 
 def rna_seq_bars(data):
