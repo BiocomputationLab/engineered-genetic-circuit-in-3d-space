@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.354412mm"
+   height="46.764622mm"
+   viewBox="0 0 52.354412 46.764622"
+   version="1.1"
+   id="svg356130"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="figure-1-B.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview356132"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.3893396"
+     inkscape:cx="155.49036"
+     inkscape:cy="111.17846"
+     inkscape:window-width="2560"
+     inkscape:window-height="1407"
+     inkscape:window-x="1920"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs356127">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.3540153,-82.323779)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-4.6397653"
+       y="84.590729"
+       id="text62026-1-6-0-0-4-5"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-9-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.264583"
+         x="-4.6397653"
+         y="84.590729">B</tspan></text>
+    <g
+       id="g24138-0-8-2-0-2-3"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.07947132,0,0,0.06360203,-15.581469,88.673711)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 220.58132,83.328 h 223.2445"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-80"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 6.339497,94.684832 2.30087,-0.005 0.0157,0.498894 1.06731,-1.118761 -1.06731,-1.118504 -0.005,0.582086 -2.3113,-0.01043 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-24"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 16.098887,94.569721 2.30087,-0.005 0.0157,0.498894 1.0673,-1.11876 -1.0673,-1.118505 -0.005,0.582086 -2.3113,-0.01043 z"
+       style="fill:#7a4762;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-9-2-8-9-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-39"
+       style="stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.910797,88.664956)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-0" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-5"
+       style="fill:#7a4762;fill-opacity:1;stroke:none;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.910797,88.736309)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#7a4762;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-2" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.79203,88.664956)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.79203,88.664956)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="1.1751302"
+       y="97.591393"
+       id="text1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="1.1751302"
+         y="97.591393">pTac</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="10.39375"
+       y="97.591393"
+       id="text1-5"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="10.39375"
+         y="97.591393">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="6.5833488"
+       y="97.591393"
+       id="text2"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="6.5833488"
+         y="97.591393">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       x="16.133139"
+       y="97.591393"
+       id="text2-6"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.265;stroke-dasharray:none"
+         x="16.133139"
+         y="97.591393">lacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="27.113325"
+       y="97.566879"
+       id="text1-7"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="27.113325"
+         y="97.566879">pTac</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="37.91943"
+       y="97.566879"
+       id="text1-5-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-93"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="37.91943"
+         y="97.566879">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="32.521549"
+       y="97.566879"
+       id="text2-7"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="32.521549"
+         y="97.566879">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       x="43.658825"
+       y="97.566879"
+       id="text2-6-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.265;stroke-dasharray:none"
+         x="43.658825"
+         y="97.566879">lacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-3.2323711"
+       y="120.90586"
+       id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-0-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         x="-3.2323711"
+         y="120.90586">TetR libraries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-3.7915523"
+       y="89.744843"
+       id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-9-9"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         x="-3.7915523"
+         y="89.744843">LacI libraries</tspan></text>
+    <g
+       id="g24138-0-8-2-0-2-9"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.07947132,0,0,0.06360203,-15.439645,104.19212)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 218.79673,83.328 H 442.04122"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-8"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 6.481327,110.20324 2.30086,-0.005 0.0157,0.49889 1.06731,-1.11876 -1.06731,-1.1185 -0.005,0.58208 -2.31129,-0.0104 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-2"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 16.069567,110.08813 2.30087,-0.005 0.0157,0.49889 1.0673,-1.11876 -1.0673,-1.1185 -0.005,0.58208 -2.3113,-0.0104 z"
+       style="fill:#009e73;fill-opacity:1;fill-rule:nonzero;stroke:#efe342;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.960784"
+       id="path24142-9-8-9-2-8-9-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-7"
+       style="stroke:#009e73;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.768973,104.18336)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#009e73;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-4" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-8"
+       style="fill:#009e73;fill-opacity:1;stroke:none;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.768973,104.25472)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#009e73;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-5" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.821355,104.18336)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5-3" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7-0"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.821355,104.18336)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="0.64596301"
+       y="113.18008"
+       id="text1-2"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="0.64596301"
+         y="113.18008">pBAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="10.39375"
+       y="113.18008"
+       id="text1-5-5"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="10.39375"
+         y="113.18008">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="6.5833488"
+       y="113.18008"
+       id="text2-2"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="6.5833488"
+         y="113.18008">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="16.058409"
+       y="113.20638"
+       id="text2-6-1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="16.058409"
+         y="113.20638">araC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="26.458075"
+       y="113.34356"
+       id="text1-2-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="26.458075"
+         y="113.34356">pBAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="37.793362"
+       y="113.34356"
+       id="text1-5-5-1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-2-9"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="37.793362"
+         y="113.34356">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="32.924633"
+       y="113.34356"
+       id="text2-2-4"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-7-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="32.924633"
+         y="113.34356">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="43.458019"
+       y="113.36986"
+       id="text2-6-1-9"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-5-3"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="43.458019"
+         y="113.36986">araC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-3.20415"
+       y="105.35036"
+       id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-9-5-9"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-3-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         x="-3.20415"
+         y="105.35036">AraC libraries</tspan></text>
+    <g
+       id="g24138-0-8-2-0-2-6"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.07947132,0,0,0.06360203,-14.968835,119.95358)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 212.87245,83.328 h 223.2445"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 6.422967,125.96471 2.30086,-0.005 0.0157,0.49889 1.06731,-1.11876 -1.06731,-1.11851 -0.005,0.58209 -2.31129,-0.0104 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-6"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 16.069567,125.84959 2.30087,-0.005 0.0157,0.4989 1.0673,-1.11876 -1.0673,-1.11851 -0.005,0.58209 -2.3113,-0.0104 z"
+       style="fill:#336b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-9-2-8-9-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-0"
+       style="stroke:#336b8b;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.82733,119.94483)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#336b8b;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-8" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-4"
+       style="fill:#336b8b;fill-opacity:1;stroke:none;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.82733,120.01618)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#336b8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-0" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.821345,119.94483)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5-6" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7-4"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-10.821345,119.94483)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6-64" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="1.1751302"
+       y="128.49272"
+       id="text1-4"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="1.1751302"
+         y="128.49272">pTet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="10.39375"
+       y="128.49272"
+       id="text1-5-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-9"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="10.39375"
+         y="128.49272">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="6.0541739"
+       y="128.49272"
+       id="text2-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-75"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="6.0541739"
+         y="128.49272">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="16.125547"
+       y="128.49272"
+       id="text2-6-7"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="16.125547"
+         y="128.49272">tetR</tspan></text>
+    <g
+       id="g24138-0-8-2-0-2-8"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,18.811217,88.835479)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 215.3944,83.328 H 406.113"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g24138-0-8-2-0-2-8-0"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,28.823257,88.833378)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 240.438,83.328 H 451.19147"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7-0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 32.290587,94.826267 2.30086,-0.005 0.0157,0.498894 1.06731,-1.118761 -1.06731,-1.118504 -0.005,0.582086 -2.31129,-0.01043 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 43.716817,94.751823 2.30087,-0.005 0.0157,0.498894 1.0673,-1.11876 -1.0673,-1.118505 -0.005,0.582086 -2.3113,-0.01043 z"
+       style="fill:#cc79a7;fill-opacity:1;fill-rule:nonzero;stroke:#7a4762;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       id="path24142-9-8-9-2-8-9-9"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-3"
+       style="stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       transform="matrix(0.06360203,0,0,0.06360203,4.981951,88.806391)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         id="path24146-2-2-5-1-6-1-70" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-1"
+       style="fill:#cc79a7;fill-opacity:1;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       transform="matrix(0.06360203,0,0,0.06360203,4.981951,88.877744)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         id="path24150-0-9-6-0-1-4" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6-9"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.744567,88.928391)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5-5" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7-9"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.744567,88.928391)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6-0" />
+    </g>
+    <g
+       id="g24466-3-0"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-20.011518,89.912643)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6" />
+    </g>
+    <g
+       id="g24466-3-0-0"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-20.580859,89.900536)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6-4" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.767157,93.512972 v -2.725373 h -6.22063 v 0"
+       id="path2"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.638067,90.787599 -8.05346,-0.09084 v 0.726766"
+       id="path3"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.676147,91.42352 c 1.90776,0 1.81691,0 1.81691,0"
+       id="path4"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24138-0-8-2-0-2-8-5"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,19.095157,104.42417)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 208.65983,83.328 H 406.113"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g24138-0-8-2-0-2-8-0-3"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,29.107197,104.42207)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 240.438,83.328 H 444.45686"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7-0-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 32.574517,110.41496 2.30087,-0.005 0.0157,0.4989 1.06731,-1.11876 -1.06731,-1.11851 -0.005,0.58209 -2.3113,-0.0104 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-1-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 43.471587,110.34052 2.30087,-0.005 0.0157,0.49889 1.0673,-1.11876 -1.0673,-1.1185 -0.005,0.58208 -2.3113,-0.0104 z"
+       style="fill:#009e73;fill-opacity:1;fill-rule:nonzero;stroke:#009e73;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24142-9-8-9-2-8-9-9-5"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-3-8"
+       style="stroke:#009e73;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,5.265891,104.39508)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#009e73;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-1-9" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-1-6"
+       style="fill:#009e73;fill-opacity:1;stroke:#009e73;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,5.265891,104.46644)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#009e73;fill-opacity:1;fill-rule:evenodd;stroke:#009e73;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-4-0" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6-9-4"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.499337,104.51709)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5-5-2" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7-9-3"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.499337,104.51709)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6-0-3" />
+    </g>
+    <g
+       id="g24466-3-0-4"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.727578,105.50134)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6-0" />
+    </g>
+    <g
+       id="g24466-3-0-0-9"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-20.296919,105.48923)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6-4-2" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.521927,109.10167 v -2.72538 h -5.69146 v 0"
+       id="path2-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 37.922007,106.37629 -8.05346,-0.0908 v 0.72677"
+       id="path3-9"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24138-0-8-2-0-2-8-5-4"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,19.253977,119.90046)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 204.89286,83.328 H 406.113"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7-3-0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g24138-0-8-2-0-2-8-0-3-8"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.04216123,0,0,0.06360203,29.266017,119.89836)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 240.438,83.328 H 440.68989"
+         style="fill:none;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24140-0-2-5-4-4-7-0-3-1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="m 32.733337,125.89125 2.30087,-0.005 0.0157,0.49889 1.06731,-1.11876 -1.06731,-1.1185 -0.005,0.58209 -2.3113,-0.0104 z"
+       style="fill:#f0e442;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path24142-9-8-4-5-4-1-8-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 43.630407,125.81681 2.30087,-0.005 0.0157,0.49889 1.0673,-1.11876 -1.0673,-1.1185 -0.005,0.58208 -2.3113,-0.0104 z"
+       style="fill:#56b4e9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24142-9-8-9-2-8-9-9-5-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24144-4-0-1-2-9-3-8-1"
+       style="stroke:#56b4e9;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,4.895544,119.87137)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;stroke:#56b4e9;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-1-9-1" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-1-6-5"
+       style="fill:#56b4e9;fill-opacity:1;stroke:none;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,4.895544,119.94273)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#56b4e9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-4-0-0" />
+    </g>
+    <g
+       id="g24144-4-0-1-2-9-6-9-4-8"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.658157,119.99337)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 371.59,82.852 v -29.95 h 28.644"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24146-2-2-5-1-6-5-5-2-4" />
+    </g>
+    <g
+       id="g24148-4-0-1-6-0-7-9-3-9"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.959089;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,16.658157,119.99337)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.959089;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24150-0-9-6-0-1-6-0-3-3" />
+    </g>
+    <g
+       id="g24466-3-0-4-0"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-19.568756,120.97763)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6-0-6" />
+    </g>
+    <g
+       id="g24466-3-0-0-9-0"
+       style="stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.06360203,0,0,0.06360203,-20.138097,120.96552)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="M 900.543,99.695 921.676,8.641"
+         style="fill:#aa3377;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path24468-7-6-4-2-3" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.680747,124.57796 v -2.72538 h -5.69146 v 0"
+       id="path2-4-3"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.080827,121.85258 -8.58263,-0.0908 v 0.72677"
+       id="path3-9-5"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.589747,122.4885 c 1.90776,0 1.81691,0 1.81691,0"
+       id="path4-2-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g24458-3-8-3"
+       style="fill:#cc79a7;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7a4762;stroke-opacity:0.85490197"
+       transform="matrix(0.06360203,0,0,0.06360203,-26.982364,89.090596)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:transform-center-x="-8.8202388"
+       inkscape:transform-center-y="1.2600341">
+      <path
+         d="m 964.105,25.484 c 0,4.422 -3.609,8.004 -8.058,8.004 -4.453,0 -8.059,-3.582 -8.059,-8.004 0,-4.422 3.606,-8.004 8.059,-8.004 4.449,0 8.058,3.582 8.058,8.004 z"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         id="path24460-9-9-7" />
+    </g>
+    <g
+       id="g24458-3-8"
+       style="fill:#cc79a7;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7a4762;stroke-opacity:0.85490197"
+       transform="matrix(0.06360203,0,0,0.06360203,-20.036898,89.152596)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         d="m 964.105,25.484 c 0,4.422 -3.609,8.004 -8.058,8.004 -4.453,0 -8.059,-3.582 -8.059,-8.004 0,-4.422 3.606,-8.004 8.059,-8.004 4.449,0 8.058,3.582 8.058,8.004 z"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         id="path24460-9-9" />
+    </g>
+    <g
+       id="g24458-3-8-3-6"
+       style="fill:#009e73;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       transform="matrix(0.06360203,0,0,0.06360203,-26.698424,104.67929)"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:transform-center-x="-8.8202388"
+       inkscape:transform-center-y="1.2600341">
+      <path
+         d="m 964.105,25.484 c 0,4.422 -3.609,8.004 -8.058,8.004 -4.453,0 -8.059,-3.582 -8.059,-8.004 0,-4.422 3.606,-8.004 8.059,-8.004 4.449,0 8.058,3.582 8.058,8.004 z"
+         style="fill:#009e73;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path24460-9-9-7-0" />
+    </g>
+    <path
+       d="m 41.036907,106.36212 c 0,0.28125 -0.22954,0.50908 -0.5125,0.50908 -0.28322,0 -0.51257,-0.22783 -0.51257,-0.50908 0,-0.28124 0.22935,-0.50907 0.51257,-0.50907 0.28296,0 0.5125,0.22783 0.5125,0.50907 z"
+       style="fill:#009e73;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0610497;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24460-9-9-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 34.779437,121.77641 c 0,0.28125 -0.22954,0.50907 -0.51251,0.50907 -0.28322,0 -0.51257,-0.22782 -0.51257,-0.50907 0,-0.28124 0.22935,-0.50907 0.51257,-0.50907 0.28297,0 0.51251,0.22783 0.51251,0.50907 z"
+       style="fill:#56b4e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0610497;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24460-9-9-7-0-1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       d="m 41.195737,121.83841 c 0,0.28125 -0.22954,0.50908 -0.51251,0.50908 -0.28322,0 -0.51257,-0.22783 -0.51257,-0.50908 0,-0.28124 0.22935,-0.50907 0.51257,-0.50907 0.28297,0 0.51251,0.22783 0.51251,0.50907 z"
+       style="fill:#56b4e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0610497;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path24460-9-9-3-5"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-3-3"
+       width="3.185601"
+       height="4.0239172"
+       x="22.664808"
+       y="91.532372"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="23.068884"
+       y="94.279152"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-9"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="23.068884"
+         y="94.279152">l<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan42286-5">m</tspan></tspan></text>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-3-0-6"
+       width="3.185601"
+       height="4.0239172"
+       x="22.664808"
+       y="108.03905"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-3-0-5-3"
+       width="3.185601"
+       height="4.0239172"
+       x="22.664808"
+       y="123.61812"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="22.599447"
+       y="110.64779"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-0-6"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-6-3"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="22.599447"
+         y="110.64779">a<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan44834-0">m</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="23.268881"
+       y="126.30367"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-0-2-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-6-4-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="23.268881"
+         y="126.30367">t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan46580-0">m</tspan></tspan></text>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-4"
+       width="3.185601"
+       height="4.0239172"
+       x="-3.0315197"
+       y="91.532372"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-2.3369625"
+       y="94.26664"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-6"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="-2.3369625"
+         y="94.26664">l<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan41056-3">0</tspan></tspan></text>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-30-8"
+       width="3.185601"
+       height="4.0239172"
+       x="-3.0315197"
+       y="108.03905"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect61485-30-4-4"
+       width="3.185601"
+       height="4.0239172"
+       x="-3.0315197"
+       y="123.61811"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="27.436575"
+       y="128.5804"
+       id="text1-4-6"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-0-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="27.436575"
+         y="128.5804">pTet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="38.242687"
+       y="128.5804"
+       id="text1-5-0-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-9-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="38.242687"
+         y="128.5804">pLacI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="33.373959"
+       y="128.5804"
+       id="text2-3-1"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-75-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="33.373959"
+         y="128.5804">yfp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="43.974483"
+       y="128.5804"
+       id="text2-6-7-8"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2-6-2-1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="43.974483"
+         y="128.5804">tetR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-2.8143642"
+       y="110.73117"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-7-0"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-2-0"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="-2.8143642"
+         y="110.73117">a<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan43952-9">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="-2.2419689"
+       y="126.26325"
+       id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-7-9-3"
+       inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-2-7-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         x="-2.2419689"
+         y="126.26325">t<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan45932-5">0</tspan></tspan></text>
+  </g>
+</svg>
