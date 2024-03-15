@@ -5,6 +5,8 @@ from Bio import SeqIO
 import matplotlib.pyplot as pyplot
 import seaborn
 from math import log, floor
+from pycircos import Gcircle, Garc
+
 
 def tsv_to_contact_matrix(filename):
     rows = []
@@ -103,6 +105,19 @@ class Chromosome:
         return self.hic.shape[0]
 
     @property
+    def circle(self):
+        x = Gcircle()
+        x.add_garc(Garc(
+            arc_id="chromosome",
+            size=len(self),
+            interspace=0,
+            linewidth=0,
+            facecolor="#ffffff00"
+        ))
+        x.set_garcs()
+        return x
+
+    @property
     def contact_map(self):
         f, a = pyplot.subplots()
         seaborn.heatmap(
@@ -140,24 +155,24 @@ class Chromosome:
 
     @property
     def genes(self):
-        return features_filter("gene")
+        return self.features_filter("gene")
 
     @property
     def cdss(self):
-        return features_filter("CDS")
+        return self.features_filter("CDS")
 
     @property
     def rrna(self):
-        return features_filter("rRNA")
+        return self.features_filter("rRNA")
 
     @property
     def forward_strand(self):
-        raw = filter(lambda f: f.type == "gene" and f.location.strand == 1, self.genbank.features)
+        raw = filter(lambda f: f.location.strand == 1, self.genes)
         return sorted(raw, key=lambda f: f.location.start)
 
     @property
     def reverse_strand(self):
-        raw = filter(lambda f: f.type == "gene" and f.location.strand == -1, self.genbank.features)
+        raw = filter(lambda f: f.location.strand == -1, self.genes)
         return sorted(raw, key=lambda f: f.location.start)
 
     def __getitem__(self, x):

@@ -1,4 +1,4 @@
-from chromosome import Chromosome
+from gene3d.chromosome import Chromosome
 
 import matplotlib.pyplot as pyplot
 
@@ -12,7 +12,7 @@ C = Chromosome(
     "/home/lewis/src/python/engineered-genetic-circuits-in-3d-space/data/contact_wt78.abc"
 )
 
-stringdb = pandas.read_csv("/home/lewis//src/python/engineered-genetic-circuits-in-3d-space/stringdb_transformed.csv", ",")
+stringdb = pandas.read_csv("/home/lewis//src/python/engineered-genetic-circuits-in-3d-space/data/kt2440.protein.links.full.v12.0.txt", " ")
 
 
 
@@ -78,16 +78,21 @@ def process_hic(row):
     bin_p = C.bp_to_bin(bp_p)
     bin_q = C.bp_to_bin(bp_q)
     return C.hic[bin_p, bin_q]
-    
+
+def process_is_same_bin(row):
+    locus_p = row.protein1
+    locus_q = row.protein2
+    print(locus_p, locus_q)
+    p = get_cds(locus_p, C).location
+    q = get_cds(locus_q, C).location
+    bp_p = p.start if p.strand == 1 else p.end
+    bp_q = q.start if q.strand == 1 else q.end
+    bin_p = C.bp_to_bin(bp_p)
+    bin_q = C.bp_to_bin(bp_q)
+    return bin_p == bin_q
 
 stringdb["distance_bps"] = stringdb.apply(process, axis=1)
 stringdb["distance_hic"] = stringdb.apply(process_hic, axis=1)
+stringdb["same_bin"] = stringdb.apply(process_is_same_bin, axis=1)
 
-# n = 0
-# for row in stringdb.iloc():
-#     if not n % 10000:
-#         print(n)
-#     distance, score = process(row)
-#     distances.append(distance)
-#     interactions.append(score)
-#     n = 1 + n        
+stringdb.save(f"{DATA}/kt2440-stringdb-transformed.csv")
