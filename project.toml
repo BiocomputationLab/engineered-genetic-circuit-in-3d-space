@@ -8,6 +8,7 @@ version = "0.0.1"
 requires-python = ">=3.7"
 dependencies = [
 	     "biopython>=1.7",
+	     "pycircos@git+https://github.com/ponnhide/pyCircos.git",
 	     "numpy",
 	     "csv",
 	     "pandas",
