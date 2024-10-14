@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="52.354412mm"
-   height="46.764622mm"
-   viewBox="0 0 52.354412 46.764622"
+   width="52.457378mm"
+   height="46.808388mm"
+   viewBox="0 0 52.457378 46.808388"
    version="1.1"
    id="svg356130"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,14 +25,15 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.3893396"
-     inkscape:cx="155.49036"
-     inkscape:cy="111.17846"
+     inkscape:cx="116.64625"
+     inkscape:cy="111.86193"
      inkscape:window-width="2560"
      inkscape:window-height="1407"
      inkscape:window-x="1920"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2" />
   <defs
      id="defs356127">
     <marker
@@ -59,7 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4.3540153,-82.323779)">
+     transform="translate(4.4346721,-82.192716)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
@@ -151,7 +152,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="1.1751302"
        y="97.591393"
        id="text1"
@@ -160,12 +161,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="1.1751302"
          y="97.591393">pTac</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="10.39375"
        y="97.591393"
        id="text1-5"
@@ -174,12 +175,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="10.39375"
          y="97.591393">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="6.5833488"
        y="97.591393"
        id="text2"
@@ -188,12 +189,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="6.5833488"
          y="97.591393">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="16.133139"
        y="97.591393"
        id="text2-6"
@@ -202,12 +203,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.265;stroke-dasharray:none"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.265;stroke-dasharray:none;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="16.133139"
          y="97.591393">lacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="27.113325"
        y="97.566879"
        id="text1-7"
@@ -216,12 +217,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-1"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="27.113325"
          y="97.566879">pTac</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="37.91943"
        y="97.566879"
        id="text1-5-8"
@@ -230,12 +231,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5-93"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="37.91943"
          y="97.566879">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="32.521549"
        y="97.566879"
        id="text2-7"
@@ -244,13 +245,13 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-4"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="32.521549"
          y="97.566879">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Bold';stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
-       x="43.658825"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       x="44.187992"
        y="97.566879"
        id="text2-6-8"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
@@ -258,12 +259,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.265;stroke-dasharray:none"
-         x="43.658825"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265;stroke-dasharray:none"
+         x="44.187992"
          y="97.566879">lacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-3.2323711"
        y="120.90586"
        id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-0-3"
@@ -272,12 +273,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-3.2323711"
          y="120.90586">TetR libraries</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-3.7915523"
        y="89.744843"
        id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-9-9"
@@ -286,7 +287,7 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-3-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-3.7915523"
          y="89.744843">LacI libraries</tspan></text>
     <g
@@ -366,7 +367,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="0.64596301"
        y="113.18008"
        id="text1-2"
@@ -375,12 +376,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-2"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="0.64596301"
          y="113.18008">pBAD</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="10.39375"
        y="113.18008"
        id="text1-5-5"
@@ -389,12 +390,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5-2"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="10.39375"
          y="113.18008">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="6.5833488"
        y="113.18008"
        id="text2-2"
@@ -403,12 +404,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-7"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="6.5833488"
          y="113.18008">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="16.058409"
        y="113.20638"
        id="text2-6-1"
@@ -417,12 +418,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6-5"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="16.058409"
          y="113.20638">araC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="26.458075"
        y="113.34356"
        id="text1-2-3"
@@ -431,12 +432,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-2-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="26.458075"
          y="113.34356">pBAD</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="37.793362"
        y="113.34356"
        id="text1-5-5-1"
@@ -445,12 +446,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5-2-9"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="37.793362"
          y="113.34356">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="32.924633"
        y="113.34356"
        id="text2-2-4"
@@ -459,12 +460,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-7-5"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="32.924633"
          y="113.34356">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="43.458019"
        y="113.36986"
        id="text2-6-1-9"
@@ -473,12 +474,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6-5-3"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="43.458019"
          y="113.36986">araC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-3.20415"
        y="105.35036"
        id="text62026-1-6-0-3-4-5-5-4-0-6-5-8-9-5-9"
@@ -487,7 +488,7 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-8-3-8-5-3-8-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, ';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-3.20415"
          y="105.35036">AraC libraries</tspan></text>
     <g
@@ -567,7 +568,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="1.1751302"
        y="128.49272"
        id="text1-4"
@@ -576,12 +577,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="1.1751302"
          y="128.49272">pTet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="10.39375"
        y="128.49272"
        id="text1-5-0"
@@ -590,12 +591,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5-9"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="10.39375"
          y="128.49272">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="6.0541739"
        y="128.49272"
        id="text2-3"
@@ -604,12 +605,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-75"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="6.0541739"
          y="128.49272">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="16.125547"
        y="128.49272"
        id="text2-6-7"
@@ -618,7 +619,7 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6-2"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="16.125547"
          y="128.49272">tetR</tspan></text>
     <g
@@ -656,33 +657,33 @@
        inkscape:export-ydpi="600" />
     <path
        d="m 43.716817,94.751823 2.30087,-0.005 0.0157,0.498894 1.0673,-1.11876 -1.0673,-1.118505 -0.005,0.582086 -2.3113,-0.01043 z"
-       style="fill:#cc79a7;fill-opacity:1;fill-rule:nonzero;stroke:#7a4762;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       style="fill:#cc79a7;fill-opacity:1;fill-rule:nonzero;stroke:#7a4762;stroke-width:0.00024696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
        id="path24142-9-8-9-2-8-9-9"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <g
        id="g24144-4-0-1-2-9-3"
-       style="stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       style="stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
        transform="matrix(0.06360203,0,0,0.06360203,4.981951,88.806391)"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
          d="m 371.59,82.852 v -29.95 h 28.644"
-         style="fill:none;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         style="fill:none;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
          id="path24146-2-2-5-1-6-1-70" />
     </g>
     <g
        id="g24148-4-0-1-6-0-1"
-       style="fill:#cc79a7;fill-opacity:1;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+       style="fill:#cc79a7;fill-opacity:1;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
        transform="matrix(0.06360203,0,0,0.06360203,4.981951,88.877744)"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
          d="m 411.543,52.902 -16.949,9.797 V 43.105 Z"
-         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
          id="path24150-0-9-6-0-1-4" />
     </g>
     <g
@@ -1021,7 +1022,7 @@
        inkscape:export-ydpi="600" />
     <g
        id="g24458-3-8-3"
-       style="fill:#cc79a7;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7a4762;stroke-opacity:0.85490197"
+       style="fill:#cc79a7;fill-opacity:1;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
        transform="matrix(0.06360203,0,0,0.06360203,-26.982364,89.090596)"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
@@ -1030,24 +1031,24 @@
        inkscape:transform-center-y="1.2600341">
       <path
          d="m 964.105,25.484 c 0,4.422 -3.609,8.004 -8.058,8.004 -4.453,0 -8.059,-3.582 -8.059,-8.004 0,-4.422 3.606,-8.004 8.059,-8.004 4.449,0 8.058,3.582 8.058,8.004 z"
-         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
          id="path24460-9-9-7" />
     </g>
     <g
        id="g24458-3-8"
-       style="fill:#cc79a7;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#7a4762;stroke-opacity:0.85490197"
+       style="fill:#cc79a7;fill-opacity:1;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
        transform="matrix(0.06360203,0,0,0.06360203,-20.036898,89.152596)"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
          d="m 964.105,25.484 c 0,4.422 -3.609,8.004 -8.058,8.004 -4.453,0 -8.059,-3.582 -8.059,-8.004 0,-4.422 3.606,-8.004 8.059,-8.004 4.449,0 8.058,3.582 8.058,8.004 z"
-         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85490197"
+         style="fill:#cc79a7;fill-opacity:1;fill-rule:evenodd;stroke:#7a4762;stroke-width:0.959871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.854902"
          id="path24460-9-9" />
     </g>
     <g
        id="g24458-3-8-3-6"
-       style="fill:#009e73;fill-opacity:1;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       style="fill:#009e73;fill-opacity:1;stroke:#000000;stroke-width:0.959871;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.06360203,0,0,0.06360203,-26.698424,104.67929)"
        inkscape:export-filename="/Users/angelgoni/Google Drive/Mi unidad/Documents/Papers : Ideas/Ongoing/2024_3D/Fig1/g908.png"
        inkscape:export-xdpi="600"
@@ -1092,7 +1093,7 @@
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="23.068884"
        y="94.279152"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-9"
@@ -1101,10 +1102,10 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="23.068884"
          y="94.279152">l<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-family:'Shree Devanagari 714';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan42286-5">m</tspan></tspan></text>
     <rect
        style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1128,7 +1129,7 @@
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="22.599447"
        y="110.64779"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-0-6"
@@ -1137,14 +1138,14 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-6-3"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="22.599447"
          y="110.64779">a<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-family:'Shree Devanagari 714';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan44834-0">m</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="23.268881"
        y="126.30367"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-0-0-2-8"
@@ -1153,10 +1154,10 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-5-6-4-4"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="23.268881"
          y="126.30367">t<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold';font-family:'Shree Devanagari 714';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan46580-0">m</tspan></tspan></text>
     <rect
        style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1170,7 +1171,7 @@
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-2.3369625"
        y="94.26664"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-6"
@@ -1179,10 +1180,10 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-4"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-2.3369625"
          y="94.26664">l<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-family:'Shree Devanagari 714';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan41056-3">0</tspan></tspan></text>
     <rect
        style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1206,7 +1207,7 @@
        inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="27.436575"
        y="128.5804"
        id="text1-4-6"
@@ -1215,12 +1216,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-0-7"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="27.436575"
          y="128.5804">pTet</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="38.242687"
        y="128.5804"
        id="text1-5-0-0"
@@ -1229,12 +1230,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan1-5-9-4"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="38.242687"
          y="128.5804">pLacI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="33.373959"
        y="128.5804"
        id="text2-3-1"
@@ -1243,12 +1244,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-75-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="33.373959"
          y="128.5804">yfp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="43.974483"
        y="128.5804"
        id="text2-6-7-8"
@@ -1257,12 +1258,12 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan2-6-2-1"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666654px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="43.974483"
          y="128.5804">tetR</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-2.8143642"
        y="110.73117"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-7-0"
@@ -1271,14 +1272,14 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-2-0"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-2.8143642"
          y="110.73117">a<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-family:'Shree Devanagari 714';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan43952-9">0</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;line-height:1.25;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="-2.2419689"
        y="126.26325"
        id="text62026-1-6-0-3-4-5-5-4-1-9-1-0-7-7-9-3"
@@ -1287,10 +1288,10 @@
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
          id="tspan62024-5-4-9-0-5-8-9-99-2-2-6-0-4-2-7-7"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714 Italic';stroke-width:0.264583"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30909274px;font-family:'Shree Devanagari 714';-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';stroke-width:0.264583;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          x="-2.2419689"
          y="126.26325">t<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:2.30909274px;baseline-shift:sub;-inkscape-font-specification:'Shree Devanagari 714, Bold Italic';font-family:'Shree Devanagari 714';font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan45932-5">0</tspan></tspan></text>
   </g>
 </svg>
